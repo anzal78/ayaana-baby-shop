@@ -307,7 +307,7 @@ background: url(/images/18.jpg) no-repeat center center/cover;
     transition: .7s;
 }
 .container .card .img2:hover{
-    background: url(/images/10.jpg) no-repeat center center/cover;
+    background: url(/images/10.jpeg) no-repeat center center/cover;
 } 
 .container .card .img3{
     width: 400px;
