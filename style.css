@@ -116,7 +116,7 @@ header .fa-bars{
 	display: flex;
 	align-items: center;
 	min-height: 100vh;
-	background: url(file:///C:/Users/KAM/Downloads/pexels-andrea-piacquadio-3890520.jpg);
+	background: url(/images/background.jpg);
 	background-size: cover;
 	background-position: center;
 
@@ -276,74 +276,74 @@ margin-bottom: 20px;
     width: 400px;
     height: 250px;
     border-radius: 10px;
-background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/18.jpeg) no-repeat center center/cover;
+background: url(/images/18.jpeg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition: .7s;
 }
 .container .card .img:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/9.jpeg) no-repeat center center/cover;
+    background: url(/images/9.jpeg) no-repeat center center/cover;
 } 
  .container .card .img1{
     width: 400px;
     height: 250px;
     border-radius: 10px;
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/5.jpg) no-repeat center center/cover;
+    background: url(/images/5.jpg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition:.7s;
 }
 .container .card .img1:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/4.jpg) no-repeat center center/cover;
+    background: url(/images/4.jpg) no-repeat center center/cover;
 } 
 
  .container .card .img2{
     width: 400px;
     height: 250px;
     border-radius: 10px;
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/7.jpeg) no-repeat center center/cover;
+    background: url(/images/7.jpeg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition: .7s;
 }
 .container .card .img2:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/10.jpeg) no-repeat center center/cover;
+    background: url(/images/10.jpeg) no-repeat center center/cover;
 } 
 .container .card .img3{
     width: 400px;
     height: 250px;;
     border-radius: 10px;
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/14.jpeg) no-repeat center center/cover;
+    background: url(/images/14.jpeg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition: .7s;
 }
 .container .card .img3:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/20.jpeg) no-repeat center center/cover;
+    background: url(/images/20.jpeg) no-repeat center center/cover;
 } 
  .container .card .img4{
     width: 400px;
     height: 250px;
     border-radius: 10px;
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/3.jpeg) no-repeat center center/cover;
+    background: url(/images/3.jpeg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition: .7s;
 }
 .container .card .img4:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/15.jpeg) no-repeat center center/cover;
+    background: url(/images/15.jpeg) no-repeat center center/cover;
 } 
 .container .card .img5{
     width: 400px;
     height: 250px;
     border-radius: 10px;
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/13.jpg) no-repeat center center/cover;
+    background: url(/images/13.jpg) no-repeat center center/cover;
     cursor: pointer;
     margin-bottom: 20px;
     transition: .7s;
 }
 .container .card .img5:hover{
-    background: url(file:///C:/Users/KAM/OneDrive/Desktop/product/16.jpeg) no-repeat center center/cover;
+    background: url(/images/16.jpeg) no-repeat center center/cover;
 }
 
 .container .card .btn{
